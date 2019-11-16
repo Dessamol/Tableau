@@ -1,6 +1,6 @@
 # Tableau Citi Bike Analysis
 
-* See Tableau publci account [here](https://public.tableau.com/authoring/CitibikeAnalysis_15738776968300/totalridershipgrown#1).
+* See Tableau public account [here](https://public.tableau.com/authoring/CitibikeAnalysis_15738776968300/totalridershipgrown#1).
 
 # Analysis of the data
 
